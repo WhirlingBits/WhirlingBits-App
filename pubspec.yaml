@@ -37,6 +37,7 @@ dependencies:
 
   # Thingsboard Client Package
   thingsboard_client: ^1.0.1
+  esp_idf: ^0.0.1
 
 dev_dependencies:
   flutter_test:
