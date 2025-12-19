@@ -35,6 +35,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # Thingsboard Client Package
+  thingsboard_client: ^1.0.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -87,3 +90,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
